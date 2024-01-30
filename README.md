@@ -1,6 +1,4 @@
 # Human-Resource-Department-using-Data-Science
-# Source: https://www.udemy.com/course/data-science-for-business-6-real-world-case-studies/
-# Data Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 Human Resource Department using Data Science. Performing Logistic Regression, Random Forest Classifier, and Artificial Neural Networks
 
@@ -37,3 +35,6 @@ F1 Score is an overall measure of a model's accuracy that combines precision and
 F1 score is the harmonic mean of precision and recall. 
 Difference between F1 Score and Accuracy? 
 In unbalanced datasets, if we have large number of true negatives (healthy patients), accuracy could be misleading. Therefore, F1 score might be a better KPI to use since it provides a balance between recall and precision in the presence of unbalanced datasets. 
+
+# Source: https://www.udemy.com/course/data-science-for-business-6-real-world-case-studies/
+# Data Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
